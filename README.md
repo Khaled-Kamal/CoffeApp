@@ -41,3 +41,7 @@
 -   google_fonts: ^6.2.1
 -   device_preview: ^1.3.1
 
+##  📸 Screenshots
+<img width="425" height="859" alt="Image" src="https://github.com/user-attachments/assets/89bf5423-e104-41c7-b503-c9eb2e12d109" /> <img width="447" height="858" alt="Image" src="https://github.com/user-attachments/assets/fe0fa192-a06e-4a60-b1ad-65ca64f138e0" /> <img width="442" height="866" alt="Image" src="https://github.com/user-attachments/assets/a0c2a742-0ce7-4126-a23a-9769982c9d7c" />
+
+
